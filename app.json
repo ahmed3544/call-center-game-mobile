@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "name": "Call Center Game",
+    "slug": "call-center-game",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#07111f"
+    },
+    "android": {
+      "package": "com.ahmed3544.callcentergame"
+    },
+    "ios": {
+      "bundleIdentifier": "com.ahmed3544.callcentergame"
+    }
+  }
+}
